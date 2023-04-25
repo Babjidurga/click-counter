@@ -2,10 +2,9 @@ In this project, let's build a **Click Counter** by applying the concepts we hav
 
 ### Refer to the image below:
 
-<br/>
 ![image](https://user-images.githubusercontent.com/113676689/234322978-82d5bec4-1980-46e5-87e2-1391ee151468.png)
 
-<br/>
+
 
 ### Design Files
 
