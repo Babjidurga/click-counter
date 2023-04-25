@@ -4,8 +4,7 @@ In this project, let's build a **Click Counter** by applying the concepts we hav
 
 <br/>
 <div style="text-align: center;">
-    <img src="![image](https://user-images.githubusercontent.com/113676689/234322368-d793f872-5986-4681-8e09-ba91fb3b60f5.png)
-" alt="click counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    ![image](https://user-images.githubusercontent.com/113676689/234322614-39fc4910-5315-4ffa-af26-4940dd9f8469.png)
 </div>
 <br/>
 
