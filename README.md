@@ -3,9 +3,8 @@ In this project, let's build a **Click Counter** by applying the concepts we hav
 ### Refer to the image below:
 
 <br/>
-<div style="text-align: center;">
-   <img src="https://assets.ccbp.in/frontend/content/react-js/click-counter-output.gif" alt="click counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
+![image](https://user-images.githubusercontent.com/113676689/234322978-82d5bec4-1980-46e5-87e2-1391ee151468.png)
+
 <br/>
 
 ### Design Files
